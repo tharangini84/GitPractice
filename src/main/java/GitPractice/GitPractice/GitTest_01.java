@@ -1,0 +1,6 @@
+package GitPractice.GitPractice;
+
+public class GitTest_01 {
+
+	public GitTest_01()
+{System.out.println("GitHub1");}}
